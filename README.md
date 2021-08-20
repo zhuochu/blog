@@ -1,1 +1,2 @@
-# blog
+# zhuochu write blog
+blog record
